@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tobidaniel-o/task-tracker.git/static/css/main.8bf3e02c.chunk.css",
+    "main.js": "/tobidaniel-o/task-tracker.git/static/js/main.28429c9e.chunk.js",
+    "main.js.map": "/tobidaniel-o/task-tracker.git/static/js/main.28429c9e.chunk.js.map",
+    "runtime-main.js": "/tobidaniel-o/task-tracker.git/static/js/runtime-main.bcdcd377.js",
+    "runtime-main.js.map": "/tobidaniel-o/task-tracker.git/static/js/runtime-main.bcdcd377.js.map",
+    "static/js/2.461a1d83.chunk.js": "/tobidaniel-o/task-tracker.git/static/js/2.461a1d83.chunk.js",
+    "static/js/2.461a1d83.chunk.js.map": "/tobidaniel-o/task-tracker.git/static/js/2.461a1d83.chunk.js.map",
+    "static/js/3.7d755975.chunk.js": "/tobidaniel-o/task-tracker.git/static/js/3.7d755975.chunk.js",
+    "static/js/3.7d755975.chunk.js.map": "/tobidaniel-o/task-tracker.git/static/js/3.7d755975.chunk.js.map",
+    "index.html": "/tobidaniel-o/task-tracker.git/index.html",
+    "static/css/main.8bf3e02c.chunk.css.map": "/tobidaniel-o/task-tracker.git/static/css/main.8bf3e02c.chunk.css.map",
+    "static/js/2.461a1d83.chunk.js.LICENSE.txt": "/tobidaniel-o/task-tracker.git/static/js/2.461a1d83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcdcd377.js",
+    "static/js/2.461a1d83.chunk.js",
+    "static/css/main.8bf3e02c.chunk.css",
+    "static/js/main.28429c9e.chunk.js"
+  ]
+}
